@@ -7,6 +7,7 @@ import (
 	"encoding/json"
 	"encoding/xml"
 	"fmt"
+	"github.com/gorilla/websocket"
 	"io"
 	"io/ioutil"
 	"log"
@@ -27,6 +28,8 @@ type AuthResponse struct {
 
 type AuthorizedUser struct {
 	Cookies []*http.Cookie
+	AcceptConn    *websocket.Conn
+	AuthToken AuthToken
 }
 
 type User struct {
@@ -52,8 +55,8 @@ type NodeBody struct {
 
 type AuthToken struct {
 	Topics []string `json:"Topics"`
-	Token string `json:"Token"`
-	AuthId string `json:"AuthenticationId"`
+	Token  string   `json:"Token"`
+	AuthId string   `json:"AuthenticationId"`
 }
 
 func GetCreds() []Creds {
@@ -235,16 +238,14 @@ func GetAuthToken(user *AuthorizedUser, token *XMLResponse) *AuthToken {
 
 func GetLiveStreamUrl(user *AuthorizedUser, token *XMLResponse, cameraId string, guid string) {
 
-	body, err := json.Marshal(map[string]string {
-		"Id": guid,
+	body, err := json.Marshal(map[string]string{
+		"Id":       guid,
 		"cameraId": cameraId,
 	})
 
 	if err != nil {
 		log.Panic(err)
 	}
-
-
 
 	client := http.Client{}
 	request, err := http.NewRequest("POST", "https://ispperf.mymaxprocloud.com/MPC/ViewerMgmt/GetLiveStreamUrl", bytes.NewBuffer(body))
