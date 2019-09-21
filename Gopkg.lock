@@ -2,6 +2,14 @@
 
 
 [[projects]]
+  branch = "master"
+  digest = "1:0a16a254e998f07a2fcce9251ad7014b77849f9e0ae1b4457e76420770599436"
+  name = "github.com/achhapolia10/golash"
+  packages = ["function"]
+  pruneopts = "UT"
+  revision = "a6c677c6ac90741c2a64f2273f6bd367c987f8af"
+
+[[projects]]
   digest = "1:582b704bebaa06b48c29b0cec224a6058a09c86883aaddabde889cd1a5f73e1b"
   name = "github.com/google/uuid"
   packages = ["."]
@@ -21,6 +29,7 @@
   analyzer-name = "dep"
   analyzer-version = 1
   input-imports = [
+    "github.com/achhapolia10/golash/function",
     "github.com/google/uuid",
     "github.com/gorilla/websocket",
   ]

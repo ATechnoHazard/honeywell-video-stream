@@ -5,10 +5,11 @@ import (
 	"fmt"
 	"github.com/ATechnoHazard/honeywell-video-stream/utils"
 	"github.com/gorilla/websocket"
+	"golash"
 	"io"
 	"log"
-	"os"
 	"strings"
+	"sync"
 )
 
 type SocketResponse struct {
@@ -127,23 +128,21 @@ func getStreamUrl(authUser *utils.AuthorizedUser, cameraList []utils.NodeBody, t
 
 func StreamVideo(name, url string) {
 	vidConn := utils.MakeVidWebSocket(url)
-	checkErr := func(err error) {
-		if err != nil {
-			log.Panic(err)
-		}
-	}
-
-	f, err := os.Create(name + ".mp4")
-	checkErr(err)
-	defer f.Close()
+	numBytes := 0
+	mutex := sync.Mutex{}
+	db := golash.Debounce(func() {
+		mutex.Lock()
+		defer mutex.Unlock()
+		log.Printf("Camera %v: %v KB/s\n", name, numBytes/1024)
+		numBytes = 0
+	}, 1000)
+	db.Call()
 
 	for {
-		_, bytes, err := vidConn.ReadMessage()
+		_, x, err := vidConn.ReadMessage()
+		numBytes += len(x)
 		if err == io.EOF {
 			break
 		}
-
-		_, err = f.Write(bytes)
-		checkErr(err)
 	}
 }

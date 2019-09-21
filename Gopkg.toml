@@ -40,3 +40,7 @@
 [[constraint]]
   branch = "master"
   name = "github.com/icza/mjpeg"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/achhapolia10/golash"
