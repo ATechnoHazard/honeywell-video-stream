@@ -22,29 +22,30 @@ type PayloadData struct {
 }
 
 func main() {
-	conn := utils.MakeWebsocket()
-	creds := utils.GetCreds()[0]
-	body := utils.User{Model: creds}
+	cred := utils.GetCreds()
 
-	authUser := utils.MakeLoginReq(body)
-	authUser.AcceptConn = conn
+	for _, creds := range cred {
+		body := utils.User{Model: creds}
+		conn := utils.MakeWebsocket()
 
-	token := utils.GetReqVerToken(authUser)
+		authUser := utils.MakeLoginReq(body) // Initial login request
+		authUser.AcceptConn = conn
 
-	cameraList := utils.GetCameraList(authUser, token) // Get list of cameras
+		token := utils.GetReqVerToken(authUser) // Get session verification token
 
-	authToken := utils.GetAuthToken(authUser, token) // Get auth token in local storage
-	SubscribeSocket(conn, creds, authToken)          // subscribe for further events to socket
+		cameraList := utils.GetCameraList(authUser, token) // Get list of cameras
 
-	streamUrls := getStreamUrl(authUser, cameraList, token, conn) // get websocket URL to stream video
+		authToken := utils.GetAuthToken(authUser, token) // Get auth token in local storage
+		SubscribeSocket(conn, creds, authToken)          // subscribe for further events to socket
 
-	names := make([]string, 0)
+		streamUrls := getStreamUrl(authUser, cameraList, token, conn) // get websocket URL to stream video
 
-	for name := range streamUrls {
-		names = append(names, name)
+		for name, url := range streamUrls {
+			go StreamVideo(name, url)
+		}
 	}
 
-	StreamVideo(names[0], streamUrls[names[0]])
+	select {}
 
 }
 
