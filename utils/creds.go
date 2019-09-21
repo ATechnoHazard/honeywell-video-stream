@@ -34,9 +34,26 @@ type User struct {
 }
 
 type XMLResponse struct {
-	Name string `xml:"name,attr"`
-	Type string `xml:"type,attr"`
+	Name  string `xml:"name,attr"`
+	Type  string `xml:"type,attr"`
 	Value string `xml:"value,attr"`
+}
+
+type NodeBody struct {
+	ParentId      string `json:"ParentId"`
+	Id            string `json:"Id"`
+	NodeType      string `json:"nodeType"`
+	AccountId     string `json:"AccountId"`
+	Address       int    `json:"Address"`
+	EntityType    string `json:"EntityType"`
+	Name          string `json:"Name"`
+	StatusQueryId string `json:"StatusQueryId"`
+}
+
+type AuthToken struct {
+	Topics []string `json:"Topics"`
+	Token string `json:"Token"`
+	AuthId string `json:"AuthenticationId"`
 }
 
 func GetCreds() []Creds {
@@ -69,7 +86,7 @@ func GetCreds() []Creds {
 	return creds
 }
 
-func MakeLoginReq(route string, body User) *AuthorizedUser {
+func MakeLoginReq(body User) *AuthorizedUser {
 	sendBody, err := json.Marshal(body)
 	if err != nil {
 		log.Fatalln(err)
@@ -77,7 +94,7 @@ func MakeLoginReq(route string, body User) *AuthorizedUser {
 
 	log.Println(string(sendBody))
 
-	res, err := http.Post(fmt.Sprintf("https://ispperf.mymaxprocloud.com/MPC/%s", route), "application/json", bytes.NewBuffer(sendBody))
+	res, err := http.Post("https://ispperf.mymaxprocloud.com/MPC/Login/Authenticate", "application/json", bytes.NewBuffer(sendBody))
 	if err != nil {
 		log.Fatalln(err)
 	}
@@ -89,7 +106,11 @@ func MakeLoginReq(route string, body User) *AuthorizedUser {
 	err = json.NewDecoder(res.Body).Decode(resBody)
 
 	if err != nil {
-		panic(err)
+		log.Panic(err)
+	}
+
+	if !resBody.Success {
+		log.Panic("Auth failed")
 	}
 
 	//log.Println(res.Cookies()[0])
@@ -122,7 +143,7 @@ func GetReqVerToken(user *AuthorizedUser) *XMLResponse {
 
 	resBody := string(body) + "</input>"
 
-	log.Println(resBody)
+	//log.Println(resBody)
 
 	defer res.Body.Close()
 
@@ -134,7 +155,111 @@ func GetReqVerToken(user *AuthorizedUser) *XMLResponse {
 
 	ret.Name = ret.Name[2:]
 
-	log.Println(ret)
+	//log.Println(ret)
 
 	return ret
+}
+
+func GetTreeViewItem(user *AuthorizedUser, token *XMLResponse, body *NodeBody) []NodeBody {
+	sendBody, err := json.Marshal(body)
+	if err != nil {
+		log.Fatalln(err)
+	}
+
+	client := http.Client{}
+	request, err := http.NewRequest("POST", "https://ispperf.mymaxprocloud.com/MPC/ViewerMgmt/GetTreeViewItem", bytes.NewBuffer(sendBody))
+	if err != nil {
+		log.Panic(err)
+	}
+
+	request.Header.Add("Content-Type", "application/json")
+	request.Header.Add("RequestVerificationToken", token.Value)
+	for _, cookie := range user.Cookies {
+		request.AddCookie(cookie)
+	}
+
+	res, err := client.Do(request)
+	if err != nil {
+		log.Panic(err)
+	}
+
+	resBody, err := ioutil.ReadAll(res.Body)
+	if err != nil {
+		log.Panic(err)
+	}
+
+	ret := make([]NodeBody, 0)
+
+	err = json.Unmarshal(resBody, &ret)
+	if err != nil {
+		log.Panic(err)
+	}
+
+	//log.Println(string(resBody), "raw response")
+
+	return ret
+}
+
+func GetAuthToken(user *AuthorizedUser, token *XMLResponse) *AuthToken {
+
+	client := http.Client{}
+	request, err := http.NewRequest("GET", fmt.Sprintf("https://ispperf.mymaxprocloud.com/MPC/Plugin/GetToken"), nil)
+	if err != nil {
+		log.Panic(err)
+	}
+
+	request.Header.Add("Content-Type", "application/json")
+	request.Header.Add("RequestVerificationToken", token.Value)
+	for _, cookie := range user.Cookies {
+		request.AddCookie(cookie)
+	}
+
+	res, err := client.Do(request)
+	if err != nil {
+		log.Panic(err)
+	}
+
+	resBody, err := ioutil.ReadAll(res.Body)
+	if err != nil {
+		log.Panic(err)
+	}
+
+	ret := new(AuthToken)
+	err = json.Unmarshal(resBody, ret)
+	if err != nil {
+		log.Panic(err)
+	}
+
+	return ret
+}
+
+func GetLiveStreamUrl(user *AuthorizedUser, token *XMLResponse, cameraId string, guid string) {
+
+	body, err := json.Marshal(map[string]string {
+		"Id": guid,
+		"cameraId": cameraId,
+	})
+
+	if err != nil {
+		log.Panic(err)
+	}
+
+
+
+	client := http.Client{}
+	request, err := http.NewRequest("POST", "https://ispperf.mymaxprocloud.com/MPC/ViewerMgmt/GetLiveStreamUrl", bytes.NewBuffer(body))
+	if err != nil {
+		log.Panic(err)
+	}
+
+	request.Header.Add("Content-Type", "application/json")
+	request.Header.Add("RequestVerificationToken", token.Value)
+	for _, cookie := range user.Cookies {
+		request.AddCookie(cookie)
+	}
+
+	_, err = client.Do(request)
+	if err != nil {
+		log.Panic(err)
+	}
 }
