@@ -3,6 +3,8 @@ package utils
 import (
 	"encoding/base64"
 	"github.com/google/uuid"
+	"math"
+	"math/rand"
 )
 
 func PadWithSpaces(pass string) string {
@@ -25,4 +27,8 @@ func GetNextNodeId(id string) string {
 
 func CreateGuid() string {
 	return uuid.New().String()
+}
+
+func RandomNo() int {
+	return int(math.Floor(9001799254740992 * rand.Float64()))
 }

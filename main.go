@@ -62,14 +62,34 @@ func main() {
 
 	authToken := utils.GetAuthToken(authUser, token)
 
-
-
 	socketAuth := "[5, \"%s\", {}]"
 
 	err = conn.WriteMessage(1, []byte(fmt.Sprintf(socketAuth, authToken.Token)))
 	if err != nil {
 		log.Panic(err)
 	}
+
+	_, x, _ = conn.ReadMessage()
+	log.Println(string(x))
+
+
+	socketEvent := "[32, %v, {\"match\":\"prefix\"}, \"%v\"]"
+	for _, topic := range authToken.Topics {
+		err = conn.WriteMessage(1, []byte(fmt.Sprintf(socketEvent, utils.RandomNo(), topic)))
+		if err != nil {
+			log.Panic(err)
+		}
+		//log.Println(fmt.Sprintf(socketEvent, utils.RandomNo(), topic))
+	}
+
+	_, x, _ = conn.ReadMessage()
+	log.Println(string(x))
+
+	_, x, _ = conn.ReadMessage()
+	log.Println(string(x))
+
+	_, x, _ = conn.ReadMessage()
+	log.Println(string(x))
 
 	_, x, _ = conn.ReadMessage()
 	log.Println(string(x))
