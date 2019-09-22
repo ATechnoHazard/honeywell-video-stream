@@ -26,24 +26,26 @@ func main() {
 	cred := utils.GetCreds()
 
 	for _, creds := range cred {
-		body := utils.User{Model: creds}
-		conn := utils.MakeWebsocket()
+		go func() {
+			body := utils.User{Model: creds}
+			conn := utils.MakeWebsocket()
 
-		authUser := utils.MakeLoginReq(body) // Initial login request
-		authUser.AcceptConn = conn
+			authUser := utils.MakeLoginReq(body) // Initial login request
+			authUser.AcceptConn = conn
 
-		token := utils.GetReqVerToken(authUser) // Get session verification token
+			token := utils.GetReqVerToken(authUser) // Get session verification token
 
-		cameraList := utils.GetCameraList(authUser, token) // Get list of cameras
+			cameraList := utils.GetCameraList(authUser, token) // Get list of cameras
 
-		authToken := utils.GetAuthToken(authUser, token) // Get auth token in local storage
-		SubscribeSocket(conn, creds, authToken)          // subscribe for further events to socket
+			authToken := utils.GetAuthToken(authUser, token) // Get auth token in local storage
+			SubscribeSocket(conn, creds, authToken)          // subscribe for further events to socket
 
-		streamUrls := getStreamUrl(authUser, cameraList, token, conn) // get websocket URL to stream video
+			streamUrls := getStreamUrl(authUser, cameraList, token, conn) // get websocket URL to stream video
 
-		for name, url := range streamUrls {
-			go StreamVideo(name, url)
-		}
+			for name, url := range streamUrls {
+				go StreamVideo(name, url, creds)
+			}
+		}()
 	}
 
 	select {}
@@ -126,14 +128,14 @@ func getStreamUrl(authUser *utils.AuthorizedUser, cameraList []utils.NodeBody, t
 	return streamUrls
 }
 
-func StreamVideo(name, url string) {
+func StreamVideo(name, url string, creds utils.Creds) {
 	vidConn := utils.MakeVidWebSocket(url)
 	numBytes := 0
 	mutex := sync.Mutex{}
 	db := golash.Debounce(func() {
 		mutex.Lock()
 		defer mutex.Unlock()
-		log.Printf("Camera %v: %v KB/s\n", name, numBytes/1024)
+		log.Printf("User %v Camera %v: %v KB/s\n", creds.Username, name, numBytes/1024)
 		numBytes = 0
 	}, 1000)
 	db.Call()
