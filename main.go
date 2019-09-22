@@ -35,21 +35,34 @@ func main() {
 	for _, creds := range cred {
 		go func(creds utils.Creds) {
 			body := utils.User{Model: creds}
-			conn := utils.MakeWebsocket()
 
-			authUser,err  := utils.MakeLoginReq(body) // Initial login request
-			if err != nil {
-				return
+			var conn *websocket.Conn
+			var token *utils.XMLResponse
+			var cameraList []utils.NodeBody
+			var authUser *utils.AuthorizedUser
+			var err error
+			var authToken *utils.AuthToken
+
+			ftodb := func() {
+				conn = utils.MakeWebsocket()
+				authUser, err = utils.MakeLoginReq(body) // Initial login request
+				if err != nil {
+					return
+				}
+				authUser.AcceptConn = conn
+
+				token = utils.GetReqVerToken(authUser) // Get session verification token
+
+				cameraList = utils.GetCameraList(authUser, token) // Get list of cameras
+
+				authToken = utils.GetAuthToken(authUser, token) // Get auth token in local storage
+
+				SubscribeSocket(conn, creds, authToken)          // subscribe for further events to socket4
+
 			}
-			authUser.AcceptConn = conn
-
-			token := utils.GetReqVerToken(authUser) // Get session verification token
-
-			cameraList := utils.GetCameraList(authUser, token) // Get list of cameras
-
-			authToken := utils.GetAuthToken(authUser, token) // Get auth token in local storage
-			SubscribeSocket(conn, creds, authToken)          // subscribe for further events to socket
-
+			db := utils.Debounce(ftodb,60*1000)
+			db.Flush()
+			db.DelayCall()
 			streamUrls := getStreamUrl(authUser, cameraList, token, conn) // get websocket URL to stream video
 			log.Println(streamUrls)
 
@@ -63,6 +76,8 @@ func main() {
 	select {}
 
 }
+
+
 
 func SubscribeSocket(conn *websocket.Conn, creds utils.Creds, authToken *utils.AuthToken) {
 	jsonData := "[1,\"alarmRealm\",{\"roles\":{\"caller\":{\"features\":{\"caller_identification\":true,\"progressive_call_results\":true}},\"callee\":{\"features\":{\"caller_identification\":true,\"pattern_based_registration\":true,\"shared_registration\":true,\"progressive_call_results\":true,\"registration_revocation\":true}},\"publisher\":{\"features\":{\"publisher_identification\":true,\"subscriber_blackwhite_listing\":true,\"publisher_exclusion\":true}},\"subscriber\":{\"features\":{\"publisher_identification\":true,\"pattern_based_subscription\":true,\"subscription_revocation\":true}}},\"authmethods\":[\"ticket\"],\"authid\":\"%s\"}]"

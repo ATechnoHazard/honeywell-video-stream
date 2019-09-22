@@ -46,6 +46,22 @@ func (d *Debounced) Call() {
 		}
 	}()
 }
+func (d *Debounced) DelayCall(){
+	d.stop = false
+	go func() {
+
+		for !d.stop {
+			select {
+			case hg := <-d.channel:
+				d.stop = hg
+			default:
+				d.stop = false
+			}
+			time.Sleep(time.Duration(int64(d.duration) * int64(time.Millisecond)))
+			go d.function()
+		}
+	}()
+}
 
 // Cancel stop the debounce method
 func (d *Debounced) Cancel() {
