@@ -24,14 +24,17 @@ type PayloadData struct {
 	Extension  []map[string]string `json:"extension"`
 }
 
+var mutex2 = sync.Mutex{}
+var numTotalBytes = 0
+
 func main() {
 	log.SetFormatter(&log.JSONFormatter{})
 	cred := utils.GetCreds()
+	deb := golash.Debounce(clearTotalBytes, 1000)
+	deb.Call()
 
 	for _, creds := range cred {
-
 		go func(creds utils.Creds) {
-			//log.Println(creds)
 			body := utils.User{Model: creds}
 			conn := utils.MakeWebsocket()
 
@@ -46,6 +49,7 @@ func main() {
 			SubscribeSocket(conn, creds, authToken)          // subscribe for further events to socket
 
 			streamUrls := getStreamUrl(authUser, cameraList, token, conn) // get websocket URL to stream video
+			log.Println(streamUrls)
 
 			for name, url := range streamUrls {
 				go StreamVideo(name, url, creds)
@@ -148,9 +152,20 @@ func StreamVideo(name, url string, creds utils.Creds) {
 
 	for {
 		_, x, err := vidConn.ReadMessage()
+		mutex2.Lock()
+		numTotalBytes += len(x)
+		mutex2.Unlock()
 		numBytes += len(x)
 		if err == io.EOF {
 			break
 		}
 	}
+}
+
+func clearTotalBytes() {
+	mutex2.Lock()
+	defer mutex2.Unlock()
+	speed := numTotalBytes / 1024
+	numTotalBytes = 0
+	log.Println("Total bandwidth consumed:", speed)
 }
