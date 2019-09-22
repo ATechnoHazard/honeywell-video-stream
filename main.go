@@ -10,6 +10,7 @@ import (
 	"log"
 	"strings"
 	"sync"
+	"time"
 )
 
 type SocketResponse struct {
@@ -26,7 +27,9 @@ func main() {
 	cred := utils.GetCreds()
 
 	for _, creds := range cred {
-		go func() {
+
+		go func(creds utils.Creds) {
+			log.Println(creds)
 			body := utils.User{Model: creds}
 			conn := utils.MakeWebsocket()
 
@@ -44,8 +47,9 @@ func main() {
 
 			for name, url := range streamUrls {
 				go StreamVideo(name, url, creds)
+				time.Sleep(2*time.Second)
 			}
-		}()
+		}(creds)
 	}
 
 	select {}
