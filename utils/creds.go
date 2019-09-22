@@ -8,6 +8,7 @@ import (
 	"encoding/xml"
 	"fmt"
 	"github.com/gorilla/websocket"
+	"github.com/pkg/errors"
 	"io"
 	"io/ioutil"
 	"log"
@@ -89,7 +90,7 @@ func GetCreds() []Creds {
 	return creds
 }
 
-func MakeLoginReq(body User) *AuthorizedUser {
+func MakeLoginReq(body User) (*AuthorizedUser,error) {
 	sendBody, err := json.Marshal(body)
 	if err != nil {
 		log.Fatalln(err)
@@ -113,13 +114,15 @@ func MakeLoginReq(body User) *AuthorizedUser {
 	}
 
 	if !resBody.Success {
-		log.Panic("Auth failed")
+		errMsg := fmt.Sprintf("Auth failed for user: %s",body.Model.Username)
+		log.Printf(errMsg)
+		return nil, errors.New(errMsg)
 	}
 
 	//log.Println(res.Cookies()[0])
 	//log.Println(resBody.Redirect)
 
-	return &AuthorizedUser{Cookies: res.Cookies()}
+	return &AuthorizedUser{Cookies: res.Cookies()},nil
 }
 
 func GetReqVerToken(user *AuthorizedUser) *XMLResponse {

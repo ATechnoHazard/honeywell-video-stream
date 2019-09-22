@@ -6,7 +6,6 @@ import (
 	"github.com/ATechnoHazard/honeywell-video-stream/utils"
 	"github.com/gorilla/websocket"
 	log "github.com/sirupsen/logrus"
-	"golash"
 	"io"
 	"strconv"
 	"strings"
@@ -30,7 +29,7 @@ var numTotalBytes = 0
 func main() {
 	log.SetFormatter(&log.JSONFormatter{})
 	cred := utils.GetCreds()
-	deb := golash.Debounce(clearTotalBytes, 1000)
+	deb := utils.Debounce(clearTotalBytes, 1000)
 	deb.Call()
 
 	for _, creds := range cred {
@@ -38,7 +37,10 @@ func main() {
 			body := utils.User{Model: creds}
 			conn := utils.MakeWebsocket()
 
-			authUser := utils.MakeLoginReq(body) // Initial login request
+			authUser,err  := utils.MakeLoginReq(body) // Initial login request
+			if err != nil {
+				return
+			}
 			authUser.AcceptConn = conn
 
 			token := utils.GetReqVerToken(authUser) // Get session verification token
@@ -101,26 +103,29 @@ func getStreamUrl(authUser *utils.AuthorizedUser, cameraList []utils.NodeBody, t
 	streamUrls := make(map[string]string)
 
 	for i, _ := range cameraList {
-		guid := utils.CreateGuid() // create unique GUID
-		utils.GetLiveStreamUrl(authUser, token, cameraList[i].Id, guid)
-
-		y := make([]interface{}, 0)
-
-		err := conn.ReadJSON(&y)
-		if err != nil {
-			log.Println(err)
-		}
-
-		sr := make([]SocketResponse, 0)
-		err = json.Unmarshal([]byte(fmt.Sprintf("%v", y[4])), &sr)
-		if err != nil {
-			log.Println(err)
-		}
-
 		pd := new(PayloadData)
-		err = json.Unmarshal([]byte(sr[0].PayloadString), pd)
-		if err != nil {
-			log.Println(err)
+		var sr []SocketResponse
+		for len(pd.Extension) <= 0 {
+
+			guid := utils.CreateGuid() // create unique GUID
+			utils.GetLiveStreamUrl(authUser, token, cameraList[i].Id, guid)
+
+			y := make([]interface{}, 0)
+
+			err := conn.ReadJSON(&y)
+			if err != nil {
+				log.Println(err)
+			}
+
+			err = json.Unmarshal([]byte(fmt.Sprintf("%v", y[4])), &sr)
+			if err != nil {
+				log.Println(err)
+			}
+
+			err = json.Unmarshal([]byte(sr[0].PayloadString), pd)
+			if err != nil {
+				log.Println(err)
+			}
 		}
 
 		streamUrl := pd.Extension[0]["streamURL"]
@@ -135,14 +140,14 @@ func StreamVideo(name, url string, creds utils.Creds) {
 	vidConn := utils.MakeVidWebSocket(url)
 	numBytes := 0
 	mutex := sync.Mutex{}
-	db := golash.Debounce(func() {
+	db := utils.Debounce(func() {
 		mutex.Lock()
 		defer mutex.Unlock()
 
 		log.WithFields(log.Fields{
-			"user": creds.Username,
+			"user":   creds.Username,
 			"camera": name,
-			"speed": strconv.Itoa(numBytes/1024) + "KB/s",
+			"speed":  strconv.Itoa(numBytes/1024) + "KB/s",
 		}).Info("Recieved data")
 
 		//log.Printf("User %v Camera %v: %v KB/s\n", creds.Username, name, numBytes/1024)
