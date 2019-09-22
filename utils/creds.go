@@ -95,7 +95,7 @@ func MakeLoginReq(body User) *AuthorizedUser {
 		log.Fatalln(err)
 	}
 
-	log.Println(string(sendBody))
+	//log.Println(string(sendBody))
 
 	res, err := http.Post("https://ispperf.mymaxprocloud.com/MPC/Login/Authenticate", "application/json", bytes.NewBuffer(sendBody))
 	if err != nil {

@@ -5,6 +5,7 @@ import (
 	"github.com/google/uuid"
 	"math"
 	"math/rand"
+	"strconv"
 )
 
 func PadWithSpaces(pass string) string {
@@ -20,9 +21,10 @@ func GenPass(clearText string) string {
 }
 
 func GetNextNodeId(id string) string {
-	r := []byte(id)
-	r[1] += 1
-	return string(r)
+	str := id[:2]
+	num, _ := strconv.ParseInt(str, 16, 32)
+	num++
+	return strconv.FormatInt(num, 16) + id[2:]
 }
 
 func CreateGuid() string {

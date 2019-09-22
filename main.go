@@ -5,9 +5,10 @@ import (
 	"fmt"
 	"github.com/ATechnoHazard/honeywell-video-stream/utils"
 	"github.com/gorilla/websocket"
+	log "github.com/sirupsen/logrus"
 	"golash"
 	"io"
-	"log"
+	"strconv"
 	"strings"
 	"sync"
 	"time"
@@ -24,12 +25,13 @@ type PayloadData struct {
 }
 
 func main() {
+	log.SetFormatter(&log.JSONFormatter{})
 	cred := utils.GetCreds()
 
 	for _, creds := range cred {
 
 		go func(creds utils.Creds) {
-			log.Println(creds)
+			//log.Println(creds)
 			body := utils.User{Model: creds}
 			conn := utils.MakeWebsocket()
 
@@ -47,7 +49,7 @@ func main() {
 
 			for name, url := range streamUrls {
 				go StreamVideo(name, url, creds)
-				time.Sleep(2*time.Second)
+				time.Sleep(2 * time.Second)
 			}
 		}(creds)
 	}
@@ -70,10 +72,7 @@ func SubscribeSocket(conn *websocket.Conn, creds utils.Creds, authToken *utils.A
 		log.Panic(err)
 	}
 
-	var x []byte
-
-	_, x, _ = conn.ReadMessage()
-	log.Println(string(x))
+	_, _, _ = conn.ReadMessage()
 
 	socketEvent := "[32, %v, {\"match\":\"prefix\"}, \"%v\"]"
 	for _, topic := range authToken.Topics {
@@ -83,20 +82,15 @@ func SubscribeSocket(conn *websocket.Conn, creds utils.Creds, authToken *utils.A
 		}
 	}
 
-	_, x, _ = conn.ReadMessage()
-	//log.Println(string(x))
+	_, _, _ = conn.ReadMessage()
 
-	_, x, _ = conn.ReadMessage()
-	//log.Println(string(x))
+	_, _, _ = conn.ReadMessage()
 
-	_, x, _ = conn.ReadMessage()
-	//log.Println(string(x))
+	_, _, _ = conn.ReadMessage()
 
-	_, x, _ = conn.ReadMessage()
-	//log.Println(string(x))
+	_, _, _ = conn.ReadMessage()
 
-	_, x, _ = conn.ReadMessage()
-	//log.Println(string(x))
+	_, _, _ = conn.ReadMessage()
 }
 
 func getStreamUrl(authUser *utils.AuthorizedUser, cameraList []utils.NodeBody, token *utils.XMLResponse, conn *websocket.Conn) map[string]string {
@@ -133,13 +127,21 @@ func getStreamUrl(authUser *utils.AuthorizedUser, cameraList []utils.NodeBody, t
 }
 
 func StreamVideo(name, url string, creds utils.Creds) {
+	log.SetFormatter(&log.JSONFormatter{})
 	vidConn := utils.MakeVidWebSocket(url)
 	numBytes := 0
 	mutex := sync.Mutex{}
 	db := golash.Debounce(func() {
 		mutex.Lock()
 		defer mutex.Unlock()
-		log.Printf("User %v Camera %v: %v KB/s\n", creds.Username, name, numBytes/1024)
+
+		log.WithFields(log.Fields{
+			"user": creds.Username,
+			"camera": name,
+			"speed": strconv.Itoa(numBytes/1024) + "KB/s",
+		}).Info("Recieved data")
+
+		//log.Printf("User %v Camera %v: %v KB/s\n", creds.Username, name, numBytes/1024)
 		numBytes = 0
 	}, 1000)
 	db.Call()

@@ -1,10 +1,7 @@
 package utils
 
-import "log"
-
 func GetCameraList(authUser *AuthorizedUser, token *XMLResponse) []NodeBody {
 	rootNode := GetTreeViewItem(authUser, token, nil)
-	log.Println("Root node", rootNode)
 
 	sendParams := &NodeBody{
 		ParentId: rootNode[0].Id,
