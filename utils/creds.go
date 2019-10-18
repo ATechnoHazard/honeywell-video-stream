@@ -98,7 +98,7 @@ func MakeLoginReq(body User) (*AuthorizedUser,error) {
 
 	//log.Println(string(sendBody))
 
-	res, err := http.Post("https://ispperf.mymaxprocloud.com/MPC/Login/Authenticate", "application/json", bytes.NewBuffer(sendBody))
+	res, err := http.Post("https://itst.mymaxprocloud.com/MPC/Login/Authenticate", "application/json", bytes.NewBuffer(sendBody))
 	if err != nil {
 		log.Fatalln(err)
 	}
@@ -106,7 +106,10 @@ func MakeLoginReq(body User) (*AuthorizedUser,error) {
 	defer res.Body.Close()
 
 	resBody := new(AuthResponse)
-
+	var p []byte
+	_ , _ =res.Body.Read(p)
+	fmt.Println(string(p))
+	fmt.Println(body.Model.Password)
 	err = json.NewDecoder(res.Body).Decode(resBody)
 
 	if err != nil {
@@ -127,7 +130,7 @@ func MakeLoginReq(body User) (*AuthorizedUser,error) {
 
 func GetReqVerToken(user *AuthorizedUser) *XMLResponse {
 	client := http.Client{}
-	request, err := http.NewRequest("GET", "https://ispperf.mymaxprocloud.com/MPC/page/GetChallenge", nil)
+	request, err := http.NewRequest("GET", "https://itst.mymaxprocloud.com/MPC/page/GetChallenge", nil)
 	if err != nil {
 		log.Panic(err)
 	}
@@ -173,7 +176,7 @@ func GetTreeViewItem(user *AuthorizedUser, token *XMLResponse, body *NodeBody) [
 	}
 
 	client := http.Client{}
-	request, err := http.NewRequest("POST", "https://ispperf.mymaxprocloud.com/MPC/ViewerMgmt/GetTreeViewItem", bytes.NewBuffer(sendBody))
+	request, err := http.NewRequest("POST", "https://itst.mymaxprocloud.com/MPC/ViewerMgmt/GetTreeViewItem", bytes.NewBuffer(sendBody))
 	if err != nil {
 		log.Panic(err)
 	}
@@ -209,7 +212,7 @@ func GetTreeViewItem(user *AuthorizedUser, token *XMLResponse, body *NodeBody) [
 func GetAuthToken(user *AuthorizedUser, token *XMLResponse) *AuthToken {
 
 	client := http.Client{}
-	request, err := http.NewRequest("GET", fmt.Sprintf("https://ispperf.mymaxprocloud.com/MPC/Plugin/GetToken"), nil)
+	request, err := http.NewRequest("GET", fmt.Sprintf("https://itst.mymaxprocloud.com/MPC/Plugin/GetToken"), nil)
 	if err != nil {
 		log.Panic(err)
 	}
@@ -251,7 +254,7 @@ func GetLiveStreamUrl(user *AuthorizedUser, token *XMLResponse, cameraId string,
 	}
 
 	client := http.Client{}
-	request, err := http.NewRequest("POST", "https://ispperf.mymaxprocloud.com/MPC/ViewerMgmt/GetLiveStreamUrl", bytes.NewBuffer(body))
+	request, err := http.NewRequest("POST", "https://itst.mymaxprocloud.com/MPC/ViewerMgmt/GetLiveStreamUrl", bytes.NewBuffer(body))
 	if err != nil {
 		log.Panic(err)
 	}

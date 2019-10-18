@@ -1,0 +1,995 @@
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:30+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:31+05:30"}
+{"level":"info","msg":"Websocket connection established","time":"2019-10-18T15:31:32+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:32+05:30"}
+{"level":"info","msg":"Websocket connection established","time":"2019-10-18T15:31:32+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:33+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:34+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:35+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:36+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:37+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:38+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:39+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:40+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:41+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:42+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:43+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:44+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:45+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:46+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:47+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:48+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:49+05:30"}
+{"level":"info","msg":"unexpected end of JSON input","time":"2019-10-18T15:31:50+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:50+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:51+05:30"}
+{"level":"info","msg":"unexpected end of JSON input","time":"2019-10-18T15:31:51+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:52+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:53+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:54+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:55+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:56+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:57+05:30"}
+{"level":"info","msg":"map[0000S1DHEN82CAM0:wss://live1.itst.mymaxprocloud.com:443/live/ade13337-3b29-e911-81a2-000d3a71320d_1_1_c9a79e5a-a25d-4275-aa35-98500b1ca15f 0000S1DHEN82CAM1:wss://live1.itst.mymaxprocloud.com:443/live/ade13337-3b29-e911-81a2-000d3a71320d_2_1_c00e9c9c-cec4-4f0d-9e4a-51d54ad1f4b3 0000S1DHEN82CAM2:wss://live2.itst.mymaxprocloud.com:443/live/ade13337-3b29-e911-81a2-000d3a71320d_3_1_0ad79b1c-61db-43d7-98a0-199800b6cb25 0000S1DHEN82CAM3:wss://live1.itst.mymaxprocloud.com:443/live/ade13337-3b29-e911-81a2-000d3a71320d_4_1_b2ce5069-1224-4481-9a0c-39a7dcf9cbc7]","time":"2019-10-18T15:31:58+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:58+05:30"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:31:59+05:30"}
+{"level":"info","msg":"Video websocket connection established","time":"2019-10-18T15:31:59+05:30"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:31:59+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:32:00+05:30"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:00+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Video websocket connection established","time":"2019-10-18T15:32:01+05:30"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:01+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 207","time":"2019-10-18T15:32:01+05:30"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"213KB/s","time":"2019-10-18T15:32:01+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"map[0000S1DHEN82CAM0:wss://live2.itst.mymaxprocloud.com:443/live/56e13337-3b29-e911-81a2-000d3a71320d_4_1_ecf15301-d55a-407d-8be9-35710cddfb27 0000S1DHEN82CAM1:wss://live2.itst.mymaxprocloud.com:443/live/56e13337-3b29-e911-81a2-000d3a71320d_1_1_17ab934a-3f71-4dcd-b329-abaa5f3149e3 0000S1DHEN82CAM2:wss://live2.itst.mymaxprocloud.com:443/live/56e13337-3b29-e911-81a2-000d3a71320d_2_1_e815ffb6-0587-4103-a741-777d8c64bae1 0000S1DHEN82CAM3:wss://live1.itst.mymaxprocloud.com:443/live/56e13337-3b29-e911-81a2-000d3a71320d_3_1_3f876101-246b-4d06-b16e-992ac729bd94]","time":"2019-10-18T15:32:02+05:30"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:02+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 109","time":"2019-10-18T15:32:02+05:30"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"126KB/s","time":"2019-10-18T15:32:02+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"94KB/s","time":"2019-10-18T15:32:03+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 261","time":"2019-10-18T15:32:03+05:30"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"52KB/s","time":"2019-10-18T15:32:03+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Video websocket connection established","time":"2019-10-18T15:32:04+05:30"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:04+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Video websocket connection established","time":"2019-10-18T15:32:04+05:30"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:04+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"155KB/s","time":"2019-10-18T15:32:04+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 273","time":"2019-10-18T15:32:04+05:30"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"132KB/s","time":"2019-10-18T15:32:04+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:05+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:05+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"128KB/s","time":"2019-10-18T15:32:05+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 287","time":"2019-10-18T15:32:05+05:30"}
+{"level":"info","msg":"Video websocket connection established","time":"2019-10-18T15:32:05+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:05+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Video websocket connection established","time":"2019-10-18T15:32:05+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:05+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"130KB/s","time":"2019-10-18T15:32:05+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:06+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"100KB/s","time":"2019-10-18T15:32:06+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"99KB/s","time":"2019-10-18T15:32:06+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 267","time":"2019-10-18T15:32:06+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:06+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:06+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"104KB/s","time":"2019-10-18T15:32:06+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:07+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"121KB/s","time":"2019-10-18T15:32:07+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"107KB/s","time":"2019-10-18T15:32:07+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 304","time":"2019-10-18T15:32:07+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:07+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:07+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"89KB/s","time":"2019-10-18T15:32:07+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"68KB/s","time":"2019-10-18T15:32:08+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"111KB/s","time":"2019-10-18T15:32:08+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"54KB/s","time":"2019-10-18T15:32:08+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 328","time":"2019-10-18T15:32:08+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:08+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:08+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"61KB/s","time":"2019-10-18T15:32:08+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:09+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"107KB/s","time":"2019-10-18T15:32:09+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"93KB/s","time":"2019-10-18T15:32:09+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 300","time":"2019-10-18T15:32:09+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:09+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:09+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"90KB/s","time":"2019-10-18T15:32:09+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"41KB/s","time":"2019-10-18T15:32:10+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"60KB/s","time":"2019-10-18T15:32:10+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"113KB/s","time":"2019-10-18T15:32:10+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 250","time":"2019-10-18T15:32:10+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:10+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:10+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"94KB/s","time":"2019-10-18T15:32:10+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:11+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"104KB/s","time":"2019-10-18T15:32:11+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"64KB/s","time":"2019-10-18T15:32:11+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 276","time":"2019-10-18T15:32:11+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:11+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:11+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"114KB/s","time":"2019-10-18T15:32:11+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"19KB/s","time":"2019-10-18T15:32:12+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"100KB/s","time":"2019-10-18T15:32:12+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"83KB/s","time":"2019-10-18T15:32:12+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 336","time":"2019-10-18T15:32:12+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:12+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:12+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"37KB/s","time":"2019-10-18T15:32:12+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"67KB/s","time":"2019-10-18T15:32:13+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"58KB/s","time":"2019-10-18T15:32:13+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"109KB/s","time":"2019-10-18T15:32:13+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 244","time":"2019-10-18T15:32:13+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:13+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:13+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"102KB/s","time":"2019-10-18T15:32:13+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Video websocket connection established","time":"2019-10-18T15:32:14+05:30"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:14+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:14+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"100KB/s","time":"2019-10-18T15:32:14+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"102KB/s","time":"2019-10-18T15:32:14+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 314","time":"2019-10-18T15:32:14+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:14+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:14+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"65KB/s","time":"2019-10-18T15:32:14+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:15+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:15+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"94KB/s","time":"2019-10-18T15:32:15+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"68KB/s","time":"2019-10-18T15:32:15+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 223","time":"2019-10-18T15:32:15+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:15+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:15+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"90KB/s","time":"2019-10-18T15:32:15+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:16+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"8KB/s","time":"2019-10-18T15:32:16+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"28KB/s","time":"2019-10-18T15:32:16+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"11KB/s","time":"2019-10-18T15:32:16+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 61","time":"2019-10-18T15:32:16+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:16+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"60KB/s","time":"2019-10-18T15:32:16+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:16+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:17+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:17+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:17+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:17+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 74","time":"2019-10-18T15:32:17+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"57KB/s","time":"2019-10-18T15:32:17+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"19KB/s","time":"2019-10-18T15:32:17+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:17+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:18+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:18+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:18+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:18+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 21","time":"2019-10-18T15:32:18+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"15KB/s","time":"2019-10-18T15:32:18+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:18+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:18+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:19+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:19+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:19+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:19+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Video websocket connection established","time":"2019-10-18T15:32:19+05:30"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:19+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 76","time":"2019-10-18T15:32:19+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:19+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:19+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"41KB/s","time":"2019-10-18T15:32:19+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:20+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:20+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"233KB/s","time":"2019-10-18T15:32:20+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:20+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:20+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 638","time":"2019-10-18T15:32:20+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:20+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:20+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"261KB/s","time":"2019-10-18T15:32:20+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:21+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:21+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"47KB/s","time":"2019-10-18T15:32:21+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"317KB/s","time":"2019-10-18T15:32:21+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:21+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 345","time":"2019-10-18T15:32:21+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:21+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:21+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:21+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"61KB/s","time":"2019-10-18T15:32:22+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:22+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"111KB/s","time":"2019-10-18T15:32:22+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"74KB/s","time":"2019-10-18T15:32:22+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:22+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 207","time":"2019-10-18T15:32:22+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:22+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:22+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:22+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:23+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:23+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"251KB/s","time":"2019-10-18T15:32:23+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"78KB/s","time":"2019-10-18T15:32:23+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:23+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 375","time":"2019-10-18T15:32:23+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:23+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"130KB/s","time":"2019-10-18T15:32:23+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:23+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"66KB/s","time":"2019-10-18T15:32:24+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:24+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:24+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:24+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:24+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 55","time":"2019-10-18T15:32:24+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"17KB/s","time":"2019-10-18T15:32:24+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:24+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:24+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:25+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:25+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"3KB/s","time":"2019-10-18T15:32:25+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"20KB/s","time":"2019-10-18T15:32:25+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"59KB/s","time":"2019-10-18T15:32:25+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 503","time":"2019-10-18T15:32:25+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:25+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"46KB/s","time":"2019-10-18T15:32:25+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:25+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"134KB/s","time":"2019-10-18T15:32:26+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:26+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"308KB/s","time":"2019-10-18T15:32:26+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:26+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"52KB/s","time":"2019-10-18T15:32:26+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 222","time":"2019-10-18T15:32:26+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:26+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:26+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:26+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"193KB/s","time":"2019-10-18T15:32:27+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"6KB/s","time":"2019-10-18T15:32:27+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:27+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:27+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"20KB/s","time":"2019-10-18T15:32:27+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 401","time":"2019-10-18T15:32:27+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"38KB/s","time":"2019-10-18T15:32:27+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:27+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:27+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"57KB/s","time":"2019-10-18T15:32:28+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"5KB/s","time":"2019-10-18T15:32:28+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"190KB/s","time":"2019-10-18T15:32:28+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:28+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"92KB/s","time":"2019-10-18T15:32:28+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 382","time":"2019-10-18T15:32:28+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:28+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"90KB/s","time":"2019-10-18T15:32:28+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:28+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"269KB/s","time":"2019-10-18T15:32:29+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:29+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:29+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:29+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:29+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 353","time":"2019-10-18T15:32:29+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"81KB/s","time":"2019-10-18T15:32:29+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:29+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:29+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"234KB/s","time":"2019-10-18T15:32:30+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:30+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"70KB/s","time":"2019-10-18T15:32:30+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:30+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"37KB/s","time":"2019-10-18T15:32:30+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 158","time":"2019-10-18T15:32:30+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"5KB/s","time":"2019-10-18T15:32:30+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"6KB/s","time":"2019-10-18T15:32:30+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:30+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:31+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:31+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:31+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:31+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"130KB/s","time":"2019-10-18T15:32:31+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 283","time":"2019-10-18T15:32:31+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:31+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"38KB/s","time":"2019-10-18T15:32:31+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:31+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"191KB/s","time":"2019-10-18T15:32:32+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"17KB/s","time":"2019-10-18T15:32:32+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:32+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:32+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:32+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 305","time":"2019-10-18T15:32:32+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:32+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:32+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:32+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"307KB/s","time":"2019-10-18T15:32:33+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:33+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:33+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:33+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:33+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 261","time":"2019-10-18T15:32:33+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:33+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:33+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:33+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"296KB/s","time":"2019-10-18T15:32:34+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:34+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:34+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:34+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:34+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 323","time":"2019-10-18T15:32:34+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:34+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:34+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:34+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:35+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:35+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"236KB/s","time":"2019-10-18T15:32:35+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:35+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"261KB/s","time":"2019-10-18T15:32:35+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 313","time":"2019-10-18T15:32:35+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:35+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"52KB/s","time":"2019-10-18T15:32:35+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:35+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:36+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"23KB/s","time":"2019-10-18T15:32:36+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:36+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:36+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:36+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 68","time":"2019-10-18T15:32:36+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:36+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:36+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:36+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:37+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:37+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:37+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:37+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:37+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:32:37+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:37+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:37+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:37+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:38+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:38+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"25KB/s","time":"2019-10-18T15:32:38+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"32KB/s","time":"2019-10-18T15:32:38+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"131KB/s","time":"2019-10-18T15:32:38+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 196","time":"2019-10-18T15:32:38+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:38+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"6KB/s","time":"2019-10-18T15:32:38+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:38+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:39+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"59KB/s","time":"2019-10-18T15:32:39+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:39+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"103KB/s","time":"2019-10-18T15:32:39+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"115KB/s","time":"2019-10-18T15:32:39+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 456","time":"2019-10-18T15:32:39+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:39+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"46KB/s","time":"2019-10-18T15:32:39+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:39+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:40+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:40+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"132KB/s","time":"2019-10-18T15:32:40+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:40+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"279KB/s","time":"2019-10-18T15:32:40+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 279","time":"2019-10-18T15:32:40+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:40+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:40+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:40+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:41+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:41+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:41+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:41+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"131KB/s","time":"2019-10-18T15:32:41+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 421","time":"2019-10-18T15:32:41+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:41+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"27KB/s","time":"2019-10-18T15:32:41+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:41+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:42+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"53KB/s","time":"2019-10-18T15:32:42+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"241KB/s","time":"2019-10-18T15:32:42+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"86KB/s","time":"2019-10-18T15:32:42+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"190KB/s","time":"2019-10-18T15:32:42+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 332","time":"2019-10-18T15:32:42+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:42+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:42+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:42+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:43+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:43+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"3KB/s","time":"2019-10-18T15:32:43+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:43+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"307KB/s","time":"2019-10-18T15:32:43+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 309","time":"2019-10-18T15:32:43+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:43+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:43+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:43+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:44+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:44+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:44+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:44+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"287KB/s","time":"2019-10-18T15:32:44+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 306","time":"2019-10-18T15:32:44+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"40KB/s","time":"2019-10-18T15:32:44+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:44+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:44+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:45+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"21KB/s","time":"2019-10-18T15:32:45+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:45+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:45+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"128KB/s","time":"2019-10-18T15:32:45+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 329","time":"2019-10-18T15:32:45+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:45+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"66KB/s","time":"2019-10-18T15:32:45+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:45+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:46+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:46+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"149KB/s","time":"2019-10-18T15:32:46+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"21KB/s","time":"2019-10-18T15:32:46+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"194KB/s","time":"2019-10-18T15:32:46+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 272","time":"2019-10-18T15:32:46+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:46+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"3KB/s","time":"2019-10-18T15:32:46+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:46+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:47+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:47+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:47+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:47+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"257KB/s","time":"2019-10-18T15:32:47+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 241","time":"2019-10-18T15:32:47+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:47+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:47+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:47+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:48+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:48+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:48+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:48+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:48+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 0","time":"2019-10-18T15:32:48+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:48+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:48+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:48+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:49+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:49+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:49+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:49+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:49+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 27","time":"2019-10-18T15:32:49+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:49+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"27KB/s","time":"2019-10-18T15:32:49+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:49+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:50+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"75KB/s","time":"2019-10-18T15:32:50+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"47KB/s","time":"2019-10-18T15:32:50+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"3KB/s","time":"2019-10-18T15:32:50+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:50+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 538","time":"2019-10-18T15:32:50+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:50+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"19KB/s","time":"2019-10-18T15:32:50+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"393KB/s","time":"2019-10-18T15:32:50+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:51+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:51+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:51+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:51+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:51+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 62","time":"2019-10-18T15:32:51+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:51+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"13KB/s","time":"2019-10-18T15:32:51+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:51+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:52+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"57KB/s","time":"2019-10-18T15:32:52+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"275KB/s","time":"2019-10-18T15:32:52+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:52+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:52+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 441","time":"2019-10-18T15:32:52+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:52+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"96KB/s","time":"2019-10-18T15:32:52+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Websocket connection established","time":"2019-10-18T15:32:52+05:30"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:52+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"level":"info","msg":"Websocket connection established","time":"2019-10-18T15:32:52+05:30"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"51KB/s","time":"2019-10-18T15:32:53+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"89KB/s","time":"2019-10-18T15:32:53+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"71KB/s","time":"2019-10-18T15:32:53+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:53+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:53+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 397","time":"2019-10-18T15:32:53+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:53+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"89KB/s","time":"2019-10-18T15:32:53+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:53+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"21KB/s","time":"2019-10-18T15:32:54+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"41KB/s","time":"2019-10-18T15:32:54+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"215KB/s","time":"2019-10-18T15:32:54+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:54+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:54+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 369","time":"2019-10-18T15:32:54+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:54+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"66KB/s","time":"2019-10-18T15:32:54+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"74KB/s","time":"2019-10-18T15:32:54+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"53KB/s","time":"2019-10-18T15:32:55+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"66KB/s","time":"2019-10-18T15:32:55+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"110KB/s","time":"2019-10-18T15:32:55+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:55+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:55+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 437","time":"2019-10-18T15:32:55+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:55+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"46KB/s","time":"2019-10-18T15:32:55+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"6KB/s","time":"2019-10-18T15:32:55+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"233KB/s","time":"2019-10-18T15:32:56+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"58KB/s","time":"2019-10-18T15:32:56+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"68KB/s","time":"2019-10-18T15:32:56+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:56+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:56+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 134","time":"2019-10-18T15:32:56+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:56+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"20KB/s","time":"2019-10-18T15:32:56+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"11KB/s","time":"2019-10-18T15:32:56+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"85KB/s","time":"2019-10-18T15:32:57+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:57+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:57+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:57+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:57+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 317","time":"2019-10-18T15:32:57+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:57+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"45KB/s","time":"2019-10-18T15:32:57+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"12KB/s","time":"2019-10-18T15:32:57+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"57KB/s","time":"2019-10-18T15:32:58+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"55KB/s","time":"2019-10-18T15:32:58+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"128KB/s","time":"2019-10-18T15:32:58+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:58+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"4KB/s","time":"2019-10-18T15:32:58+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 154","time":"2019-10-18T15:32:58+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:58+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:58+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:58+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"149KB/s","time":"2019-10-18T15:32:59+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:59+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:59+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:59+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:59+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 74","time":"2019-10-18T15:32:59+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:59+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:59+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:32:59+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:00+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"59KB/s","time":"2019-10-18T15:33:00+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"81KB/s","time":"2019-10-18T15:33:00+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:00+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:00+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 256","time":"2019-10-18T15:33:00+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:00+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"78KB/s","time":"2019-10-18T15:33:00+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"9KB/s","time":"2019-10-18T15:33:00+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:01+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"16KB/s","time":"2019-10-18T15:33:01+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"35KB/s","time":"2019-10-18T15:33:01+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:01+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:01+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 197","time":"2019-10-18T15:33:01+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:01+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"54KB/s","time":"2019-10-18T15:33:01+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"7KB/s","time":"2019-10-18T15:33:01+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:02+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"97KB/s","time":"2019-10-18T15:33:02+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"99KB/s","time":"2019-10-18T15:33:02+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"6KB/s","time":"2019-10-18T15:33:02+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"12KB/s","time":"2019-10-18T15:33:02+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 309","time":"2019-10-18T15:33:02+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:02+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"96KB/s","time":"2019-10-18T15:33:02+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"9KB/s","time":"2019-10-18T15:33:02+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:03+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"12KB/s","time":"2019-10-18T15:33:03+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"137KB/s","time":"2019-10-18T15:33:03+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"7KB/s","time":"2019-10-18T15:33:03+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"16KB/s","time":"2019-10-18T15:33:03+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 233","time":"2019-10-18T15:33:03+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:03+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"34KB/s","time":"2019-10-18T15:33:03+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:03+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:04+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"121KB/s","time":"2019-10-18T15:33:04+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"126KB/s","time":"2019-10-18T15:33:04+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"20KB/s","time":"2019-10-18T15:33:04+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"35KB/s","time":"2019-10-18T15:33:04+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 374","time":"2019-10-18T15:33:04+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:04+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"105KB/s","time":"2019-10-18T15:33:04+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:04+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"54KB/s","time":"2019-10-18T15:33:05+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"67KB/s","time":"2019-10-18T15:33:05+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"48KB/s","time":"2019-10-18T15:33:05+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"12KB/s","time":"2019-10-18T15:33:05+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"5KB/s","time":"2019-10-18T15:33:05+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 260","time":"2019-10-18T15:33:05+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:05+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"24KB/s","time":"2019-10-18T15:33:05+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:05+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"45KB/s","time":"2019-10-18T15:33:06+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"37KB/s","time":"2019-10-18T15:33:06+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"85KB/s","time":"2019-10-18T15:33:06+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:06+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"84KB/s","time":"2019-10-18T15:33:06+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 317","time":"2019-10-18T15:33:06+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:06+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"83KB/s","time":"2019-10-18T15:33:06+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"57KB/s","time":"2019-10-18T15:33:06+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:07+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"29KB/s","time":"2019-10-18T15:33:07+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"94KB/s","time":"2019-10-18T15:33:07+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:07+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"154KB/s","time":"2019-10-18T15:33:07+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 327","time":"2019-10-18T15:33:07+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"59KB/s","time":"2019-10-18T15:33:07+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"7KB/s","time":"2019-10-18T15:33:07+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:07+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"32KB/s","time":"2019-10-18T15:33:08+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"65KB/s","time":"2019-10-18T15:33:08+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"10KB/s","time":"2019-10-18T15:33:08+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:08+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:08+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 292","time":"2019-10-18T15:33:08+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:08+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"41KB/s","time":"2019-10-18T15:33:08+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"15KB/s","time":"2019-10-18T15:33:08+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:09+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"4KB/s","time":"2019-10-18T15:33:09+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"96KB/s","time":"2019-10-18T15:33:09+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"54KB/s","time":"2019-10-18T15:33:09+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"339KB/s","time":"2019-10-18T15:33:09+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 339","time":"2019-10-18T15:33:09+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:09+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:09+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:09+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:10+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:10+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"3KB/s","time":"2019-10-18T15:33:10+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:10+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"317KB/s","time":"2019-10-18T15:33:10+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 300","time":"2019-10-18T15:33:10+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:10+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:10+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:10+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"73KB/s","time":"2019-10-18T15:33:11+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"6KB/s","time":"2019-10-18T15:33:11+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:11+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:11+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:11+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 335","time":"2019-10-18T15:33:11+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"7KB/s","time":"2019-10-18T15:33:11+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"73KB/s","time":"2019-10-18T15:33:11+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"10KB/s","time":"2019-10-18T15:33:11+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"128KB/s","time":"2019-10-18T15:33:12+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"62KB/s","time":"2019-10-18T15:33:12+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"75KB/s","time":"2019-10-18T15:33:12+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:12+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:12+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 132","time":"2019-10-18T15:33:12+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:12+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"23KB/s","time":"2019-10-18T15:33:12+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"7KB/s","time":"2019-10-18T15:33:12+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:13+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:13+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:13+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"14KB/s","time":"2019-10-18T15:33:13+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:13+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 14","time":"2019-10-18T15:33:13+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:13+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:13+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:13+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:14+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:14+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:14+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:14+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:14+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 7","time":"2019-10-18T15:33:14+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:14+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"7KB/s","time":"2019-10-18T15:33:14+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:14+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:15+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:15+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:15+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:15+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:15+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 274","time":"2019-10-18T15:33:15+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:15+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:15+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:15+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"274KB/s","time":"2019-10-18T15:33:16+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"58KB/s","time":"2019-10-18T15:33:16+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:16+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:16+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:16+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 248","time":"2019-10-18T15:33:16+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"7KB/s","time":"2019-10-18T15:33:16+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"26KB/s","time":"2019-10-18T15:33:16+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"6KB/s","time":"2019-10-18T15:33:16+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:17+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"73KB/s","time":"2019-10-18T15:33:17+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"132KB/s","time":"2019-10-18T15:33:17+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"15KB/s","time":"2019-10-18T15:33:17+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:17+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 299","time":"2019-10-18T15:33:17+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"10KB/s","time":"2019-10-18T15:33:17+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"64KB/s","time":"2019-10-18T15:33:17+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"10KB/s","time":"2019-10-18T15:33:17+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"6KB/s","time":"2019-10-18T15:33:18+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"80KB/s","time":"2019-10-18T15:33:18+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"131KB/s","time":"2019-10-18T15:33:18+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"17KB/s","time":"2019-10-18T15:33:18+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"99KB/s","time":"2019-10-18T15:33:18+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 417","time":"2019-10-18T15:33:18+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"11KB/s","time":"2019-10-18T15:33:18+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"51KB/s","time":"2019-10-18T15:33:18+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"7KB/s","time":"2019-10-18T15:33:18+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:19+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"49KB/s","time":"2019-10-18T15:33:19+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"130KB/s","time":"2019-10-18T15:33:19+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"16KB/s","time":"2019-10-18T15:33:19+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"87KB/s","time":"2019-10-18T15:33:19+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 329","time":"2019-10-18T15:33:19+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"9KB/s","time":"2019-10-18T15:33:19+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"14KB/s","time":"2019-10-18T15:33:19+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"13KB/s","time":"2019-10-18T15:33:19+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:20+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"99KB/s","time":"2019-10-18T15:33:20+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"132KB/s","time":"2019-10-18T15:33:20+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"12KB/s","time":"2019-10-18T15:33:20+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"75KB/s","time":"2019-10-18T15:33:20+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 337","time":"2019-10-18T15:33:20+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"7KB/s","time":"2019-10-18T15:33:20+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"87KB/s","time":"2019-10-18T15:33:20+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:20+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:21+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"81KB/s","time":"2019-10-18T15:33:21+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"120KB/s","time":"2019-10-18T15:33:21+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:21+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"93KB/s","time":"2019-10-18T15:33:21+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 271","time":"2019-10-18T15:33:21+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:21+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"40KB/s","time":"2019-10-18T15:33:21+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:21+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:22+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"72KB/s","time":"2019-10-18T15:33:22+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"9KB/s","time":"2019-10-18T15:33:22+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:22+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:22+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 285","time":"2019-10-18T15:33:22+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"18KB/s","time":"2019-10-18T15:33:22+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"3KB/s","time":"2019-10-18T15:33:22+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:22+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:23+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"83KB/s","time":"2019-10-18T15:33:23+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"131KB/s","time":"2019-10-18T15:33:23+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"74KB/s","time":"2019-10-18T15:33:23+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"745KB/s","time":"2019-10-18T15:33:23+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 1096","time":"2019-10-18T15:33:23+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"3KB/s","time":"2019-10-18T15:33:23+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"103KB/s","time":"2019-10-18T15:33:23+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:23+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:24+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"44KB/s","time":"2019-10-18T15:33:24+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"131KB/s","time":"2019-10-18T15:33:24+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"21KB/s","time":"2019-10-18T15:33:24+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"80KB/s","time":"2019-10-18T15:33:24+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 567","time":"2019-10-18T15:33:24+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:24+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"26KB/s","time":"2019-10-18T15:33:24+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"61KB/s","time":"2019-10-18T15:33:24+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"260KB/s","time":"2019-10-18T15:33:25+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"12KB/s","time":"2019-10-18T15:33:25+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"114KB/s","time":"2019-10-18T15:33:25+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"20KB/s","time":"2019-10-18T15:33:25+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"129KB/s","time":"2019-10-18T15:33:25+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 271","time":"2019-10-18T15:33:25+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:25+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:25+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:25+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:26+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"105KB/s","time":"2019-10-18T15:33:26+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"82KB/s","time":"2019-10-18T15:33:26+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"7KB/s","time":"2019-10-18T15:33:26+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"82KB/s","time":"2019-10-18T15:33:26+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 369","time":"2019-10-18T15:33:26+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:26+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"91KB/s","time":"2019-10-18T15:33:26+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"8KB/s","time":"2019-10-18T15:33:26+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:27+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"6KB/s","time":"2019-10-18T15:33:27+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"35KB/s","time":"2019-10-18T15:33:27+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"7KB/s","time":"2019-10-18T15:33:27+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"283KB/s","time":"2019-10-18T15:33:27+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 286","time":"2019-10-18T15:33:27+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:27+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"6KB/s","time":"2019-10-18T15:33:27+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:27+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:28+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"79KB/s","time":"2019-10-18T15:33:28+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"28KB/s","time":"2019-10-18T15:33:28+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:28+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"27KB/s","time":"2019-10-18T15:33:28+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 259","time":"2019-10-18T15:33:28+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:28+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"32KB/s","time":"2019-10-18T15:33:28+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"13KB/s","time":"2019-10-18T15:33:28+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:29+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"6KB/s","time":"2019-10-18T15:33:29+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"96KB/s","time":"2019-10-18T15:33:29+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:29+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"317KB/s","time":"2019-10-18T15:33:29+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 333","time":"2019-10-18T15:33:29+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:29+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:29+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:29+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:30+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:30+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:30+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:30+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"205KB/s","time":"2019-10-18T15:33:30+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 262","time":"2019-10-18T15:33:30+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:30+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:30+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"13KB/s","time":"2019-10-18T15:33:30+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:31+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"65KB/s","time":"2019-10-18T15:33:31+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"101KB/s","time":"2019-10-18T15:33:31+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"52KB/s","time":"2019-10-18T15:33:31+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"93KB/s","time":"2019-10-18T15:33:31+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 386","time":"2019-10-18T15:33:31+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:31+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"81KB/s","time":"2019-10-18T15:33:31+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:31+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:32+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:32+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"20KB/s","time":"2019-10-18T15:33:32+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"14KB/s","time":"2019-10-18T15:33:32+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"302KB/s","time":"2019-10-18T15:33:32+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 284","time":"2019-10-18T15:33:32+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:32+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:32+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:32+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:33+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:33+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"3KB/s","time":"2019-10-18T15:33:33+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"6KB/s","time":"2019-10-18T15:33:33+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"131KB/s","time":"2019-10-18T15:33:33+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 369","time":"2019-10-18T15:33:33+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"46KB/s","time":"2019-10-18T15:33:33+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"50KB/s","time":"2019-10-18T15:33:33+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"11KB/s","time":"2019-10-18T15:33:33+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:34+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"104KB/s","time":"2019-10-18T15:33:34+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"118KB/s","time":"2019-10-18T15:33:34+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"27KB/s","time":"2019-10-18T15:33:34+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"127KB/s","time":"2019-10-18T15:33:34+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 309","time":"2019-10-18T15:33:34+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:34+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:34+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:34+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:35+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:35+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:35+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:35+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"346KB/s","time":"2019-10-18T15:33:35+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 318","time":"2019-10-18T15:33:35+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:35+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:35+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:35+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:36+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"25KB/s","time":"2019-10-18T15:33:36+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"7KB/s","time":"2019-10-18T15:33:36+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"3KB/s","time":"2019-10-18T15:33:36+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"100KB/s","time":"2019-10-18T15:33:36+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 313","time":"2019-10-18T15:33:36+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"9KB/s","time":"2019-10-18T15:33:36+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"66KB/s","time":"2019-10-18T15:33:36+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"12KB/s","time":"2019-10-18T15:33:36+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"7KB/s","time":"2019-10-18T15:33:37+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"64KB/s","time":"2019-10-18T15:33:37+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"116KB/s","time":"2019-10-18T15:33:37+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"25KB/s","time":"2019-10-18T15:33:37+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"186KB/s","time":"2019-10-18T15:33:37+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 303","time":"2019-10-18T15:33:37+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:37+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"9KB/s","time":"2019-10-18T15:33:37+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:37+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:38+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:38+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"3KB/s","time":"2019-10-18T15:33:38+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:38+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"262KB/s","time":"2019-10-18T15:33:38+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 327","time":"2019-10-18T15:33:38+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:38+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:38+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:38+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:39+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"53KB/s","time":"2019-10-18T15:33:39+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"7KB/s","time":"2019-10-18T15:33:39+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:39+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"116KB/s","time":"2019-10-18T15:33:39+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 253","time":"2019-10-18T15:33:39+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"10KB/s","time":"2019-10-18T15:33:39+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"54KB/s","time":"2019-10-18T15:33:39+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"11KB/s","time":"2019-10-18T15:33:39+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:40+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"14KB/s","time":"2019-10-18T15:33:40+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"115KB/s","time":"2019-10-18T15:33:40+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:40+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"207KB/s","time":"2019-10-18T15:33:40+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 291","time":"2019-10-18T15:33:40+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:40+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:40+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:40+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:41+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:41+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:41+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:41+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"301KB/s","time":"2019-10-18T15:33:41+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 301","time":"2019-10-18T15:33:41+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:41+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:41+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:41+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:42+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"95KB/s","time":"2019-10-18T15:33:42+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"11KB/s","time":"2019-10-18T15:33:42+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:42+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"31KB/s","time":"2019-10-18T15:33:42+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 270","time":"2019-10-18T15:33:42+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"12KB/s","time":"2019-10-18T15:33:42+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"74KB/s","time":"2019-10-18T15:33:42+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:42+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:43+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"14KB/s","time":"2019-10-18T15:33:43+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"115KB/s","time":"2019-10-18T15:33:43+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"64KB/s","time":"2019-10-18T15:33:43+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"240KB/s","time":"2019-10-18T15:33:43+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 387","time":"2019-10-18T15:33:43+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:43+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:43+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:43+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:44+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:44+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:44+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:44+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"285KB/s","time":"2019-10-18T15:33:44+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 272","time":"2019-10-18T15:33:44+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"6KB/s","time":"2019-10-18T15:33:44+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:44+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:44+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:45+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"80KB/s","time":"2019-10-18T15:33:45+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"12KB/s","time":"2019-10-18T15:33:45+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"9KB/s","time":"2019-10-18T15:33:45+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:45+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 287","time":"2019-10-18T15:33:45+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"4KB/s","time":"2019-10-18T15:33:45+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"57KB/s","time":"2019-10-18T15:33:45+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:45+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:46+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"6KB/s","time":"2019-10-18T15:33:46+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"116KB/s","time":"2019-10-18T15:33:46+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"30KB/s","time":"2019-10-18T15:33:46+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"261KB/s","time":"2019-10-18T15:33:46+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 296","time":"2019-10-18T15:33:46+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:46+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:46+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:46+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:47+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:47+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:47+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:47+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"261KB/s","time":"2019-10-18T15:33:47+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 347","time":"2019-10-18T15:33:47+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"15KB/s","time":"2019-10-18T15:33:47+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:47+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:47+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"36KB/s","time":"2019-10-18T15:33:48+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"66KB/s","time":"2019-10-18T15:33:48+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"6KB/s","time":"2019-10-18T15:33:48+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"6KB/s","time":"2019-10-18T15:33:48+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"72KB/s","time":"2019-10-18T15:33:48+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 334","time":"2019-10-18T15:33:48+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:48+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"85KB/s","time":"2019-10-18T15:33:48+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"67KB/s","time":"2019-10-18T15:33:48+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:49+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:49+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"123KB/s","time":"2019-10-18T15:33:49+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"20KB/s","time":"2019-10-18T15:33:49+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"244KB/s","time":"2019-10-18T15:33:49+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 341","time":"2019-10-18T15:33:49+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:49+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:49+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:49+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:50+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:50+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM2","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:50+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:50+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM1","level":"info","msg":"Recieved data","speed":"292KB/s","time":"2019-10-18T15:33:50+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"level":"info","msg":"Total bandwidth consumed: 298","time":"2019-10-18T15:33:50+05:30"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"15KB/s","time":"2019-10-18T15:33:50+05:30","user":"L8DLR9_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM3","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:50+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:50+05:30","user":"L8DLR10_ADM1@PERF.com"}
+{"camera":"0000S1DHEN82CAM0","level":"info","msg":"Recieved data","speed":"0KB/s","time":"2019-10-18T15:33:51+05:30","user":"L8DLR9_ADM1@PERF.com"}

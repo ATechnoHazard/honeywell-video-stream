@@ -7,6 +7,7 @@ import (
 	"github.com/gorilla/websocket"
 	log "github.com/sirupsen/logrus"
 	"io"
+	"os"
 	"strconv"
 	"strings"
 	"sync"
@@ -28,6 +29,12 @@ var numTotalBytes = 0
 
 func main() {
 	log.SetFormatter(&log.JSONFormatter{})
+	file, err := os.OpenFile("stream.log", os.O_CREATE|os.O_WRONLY, 0666)
+	if err != nil {
+		log.SetOutput(os.Stdout)
+	} else {
+		log.SetOutput(file)
+	}
 	cred := utils.GetCreds()
 	deb := utils.Debounce(clearTotalBytes, 1000)
 	deb.Call()
@@ -57,10 +64,10 @@ func main() {
 
 				authToken = utils.GetAuthToken(authUser, token) // Get auth token in local storage
 
-				SubscribeSocket(conn, creds, authToken)          // subscribe for further events to socket4
+				SubscribeSocket(conn, creds, authToken) // subscribe for further events to socket4
 
 			}
-			db := utils.Debounce(ftodb,60*1000)
+			db := utils.Debounce(ftodb, 60*1000)
 			db.Flush()
 			db.DelayCall()
 			streamUrls := getStreamUrl(authUser, cameraList, token, conn) // get websocket URL to stream video
@@ -76,8 +83,6 @@ func main() {
 	select {}
 
 }
-
-
 
 func SubscribeSocket(conn *websocket.Conn, creds utils.Creds, authToken *utils.AuthToken) {
 	jsonData := "[1,\"alarmRealm\",{\"roles\":{\"caller\":{\"features\":{\"caller_identification\":true,\"progressive_call_results\":true}},\"callee\":{\"features\":{\"caller_identification\":true,\"pattern_based_registration\":true,\"shared_registration\":true,\"progressive_call_results\":true,\"registration_revocation\":true}},\"publisher\":{\"features\":{\"publisher_identification\":true,\"subscriber_blackwhite_listing\":true,\"publisher_exclusion\":true}},\"subscriber\":{\"features\":{\"publisher_identification\":true,\"pattern_based_subscription\":true,\"subscription_revocation\":true}}},\"authmethods\":[\"ticket\"],\"authid\":\"%s\"}]"
